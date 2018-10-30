@@ -3,4 +3,5 @@ var sum = 0;
 
 for (var i=0; i < prices.length; i++){
   sum + prices[i]
+  console.log(sum);
 }
