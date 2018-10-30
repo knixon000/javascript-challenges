@@ -14,4 +14,4 @@ for (var i=1; i > 100; i--){
 
 }
 
-console.log(i + " cw")
+console.log(i + " crows on the wall")
