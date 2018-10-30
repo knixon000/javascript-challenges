@@ -6,3 +6,12 @@ for (var i=0; i < prices.length; i++){
 }
 
 console.log("The sum is:", sum);
+
+var cw = "crows on the wall";
+var num = 99;
+
+for (var i=1; i < 100; i--){
+
+}
+
+console.log(i + cw)
